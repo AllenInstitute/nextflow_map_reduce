@@ -5,7 +5,7 @@ from collections import defaultdict
 
 def run():
     """ basic run function """
-    data_dir = "/data"
+    data_dir = "/data/text"
     results_dir = "/results"
     
     # Create results directory if it doesn't exist
